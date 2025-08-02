@@ -4,9 +4,10 @@ console.log(str);
 console.log("length : ",str.length);
 
 console.log("ForOf loop")
-for(const char of str){
+for(let char of str){
     console.log(char);
 }
+
 
 // str.forEach((char) => {
 //     console.log(char);

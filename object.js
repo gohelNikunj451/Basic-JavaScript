@@ -23,4 +23,3 @@ console.log("forIn loop");
 for (const key in person) {
   console.log(key,person[key]);
 }
-

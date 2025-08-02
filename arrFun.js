@@ -17,7 +17,7 @@ arr.shift();
 console.log("shift : ",arr);
 
 // sort in assending order or dissending order
-let brr=arr.sort((a,b)=>b-a);
+let brr=arr.sort((a,b)=>a-b);
 console.log("shorted : ",brr);
 
 //absolute shorting
