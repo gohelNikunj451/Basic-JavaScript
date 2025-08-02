@@ -1,1 +1,1 @@
-console.log("pop : ",arr);
+m 0 to 9 : ",Math.flo

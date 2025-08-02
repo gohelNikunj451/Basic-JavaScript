@@ -1,10 +1,10 @@
-let str="hello";
+let str = "hello";
 
 console.log(str);
-console.log("length : ",str.length);
+console.log("length : ", str.length);
 
 console.log("ForOf loop")
-for(let char of str){
+for (let char of str) {
     console.log(char);
 }
 
