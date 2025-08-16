@@ -1,5 +1,5 @@
-let arr=[1,2,3,4,5,6];
-let brr=[];
+let arr = [1, 2, 3, 4, 5, 6];
+let brr = [];
 
 // function squar(ele){
 //     return ele*ele;
@@ -19,7 +19,7 @@ let brr=[];
 //     return ele*ele;
 // });
 
-brr=arr.map(ele => ele*ele);
+brr = arr.map(ele => ele * ele);
 
-console.log("arr : ",arr);
-console.log("brr : ",brr);
+console.log("arr : ", arr);
+console.log("brr : ", brr);

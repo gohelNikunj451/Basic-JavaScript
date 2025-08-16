@@ -1,7 +1,7 @@
-finalName("nikunj"); // function hosting : by default compile time java script shift fuction to it's fuction call before at the top in block of code
 function finalName(name) {
   console.log("name is : ", name);
 }
+finalName("nikunj"); // function hosting : by default compile time java script shift fuction to it's fuction call before at the top in block of code
 
 // variable hosting : 
 {

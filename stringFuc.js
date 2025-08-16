@@ -4,7 +4,7 @@ console.log("Upper Case : ", str.toUpperCase());
 
 console.log("lower Case : ", str.toLowerCase());
 
-// trim function remover extra space form sentence
+// trim function remover extra space form sentence from start and end
 
 let tstr = "                nikunj  gohel        s";
 
